@@ -55,11 +55,8 @@ Goal ............ Full-time pentester / red team operator
 ## `cat roadmap.md`
 
 - [x] Pre Security
-- [x] Networking
-- [x] Linux Fundamentals
-- [x] Windows and AD Fundamentals
-- [ ] Cyber Security 101
-- [ ] **Jr Penetration Tester** ⬅ currently here
+- [x] Cyber Security 101
+- [ ] Jr Penetration Tester
 - [ ] Web Application Pentesting
 - [ ] Web Application Red Teaming
 - [ ] Red Teaming
@@ -73,15 +70,6 @@ Goal ............ Full-time pentester / red team operator
 <!-- ===== END SECTION ===== -->
 
 <!-- ===== SECTION: TRYHACKME STATS ===== -->
-## `./tryhackme --stats`
-
-<p align="center">
-  <a href="https://tryhackme.com/p/Dragon_Shotx">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Dragon_Shotx.png" alt="TryHackMe Badge" />
-  </a>
-</p>
-
-<p align="center">🏆 Top 8% globally &nbsp;•&nbsp; #5 South Africa monthly leaderboard</p>
 
 <!-- If the badge image 404s, grab a fresh one from your TryHackMe profile
      settings → "Share your profile" and swap the URL above -->
@@ -127,53 +115,7 @@ Goal ............ Full-time pentester / red team operator
 </p>
 <!-- ===== END SECTION ===== -->
 
-<!-- ===== SECTION: CONTRIBUTION SNAKE — animated, needs one-time setup ===== -->
-## `./snake.sh`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DRAGON-SHOT/DRAGON-SHOT/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<!--
-  This one won't render until you do a 5-minute one-time setup, because it
-  runs as a GitHub Action in YOUR repo rather than a hosted badge service:
-
-  1. In your DRAGON-SHOT/DRAGON-SHOT repo, create the file:
-     .github/workflows/snake.yml
-
-  2. Paste this in:
-
-     name: generate animated snake
-     on:
-       schedule:
-         - cron: "0 */6 * * *"
-       workflow_dispatch: {}
-       push:
-         branches: [ main ]
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk@v3
-             with:
-               github_user_name: DRAGON-SHOT
-               outputs: |
-                 dist/github-contribution-grid-snake.svg
-                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v4
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Commit it. The Action builds the SVG on a schedule and it starts
-     showing up in the image above automatically.
-     Full guide: https://github.com/Platane/snk
-
-  Don't want to bother with this? Just delete this whole SECTION block.
--->
-<!-- ===== END SECTION ===== -->
 
 ---
 
