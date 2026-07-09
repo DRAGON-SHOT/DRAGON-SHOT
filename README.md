@@ -108,11 +108,9 @@ Goal ............ Full-time pentester / red team operator
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DRAGON-SHOT&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=DRAGON-SHOT&hide_border=true&background=00000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC" width="49%" />
+
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRAGON-SHOT&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF" width="40%" />
-</p>
+
 <!-- ===== END SECTION ===== -->
 
 
