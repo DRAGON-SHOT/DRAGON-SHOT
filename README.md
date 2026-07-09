@@ -178,21 +178,10 @@ Goal ............ Full-time pentester / red team operator
 ---
 
 <!-- ===== SECTION: ONGOING PROJECTS ===== -->
-## `find . -name "*.wip"`
-
-- 🌐 Personal portfolio site — dark hacker-terminal aesthetic, THM progress tracker, writeups
-- 🕳️ *(add your next writeup / tool / CTF repo here — one line each)*
 <!-- ===== END SECTION ===== -->
 
 <!-- ===== SECTION: CONNECT (swap the "#" hrefs for real URLs) ===== -->
-## `nc -lvnp connect`
 
-<p align="center">
-  <a href="https://tryhackme.com/p/Dragon_Shotx"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-  <a href="https://github.com/DRAGON-SHOT"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-</p>
 <!-- ===== END SECTION ===== -->
 
 <!-- ===== SECTION: FOOTER BANNER ===== -->
