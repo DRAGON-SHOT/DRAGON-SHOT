@@ -101,28 +101,6 @@ Goal ............ Full-time pentester / red team operator
   <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
-<!-- ===== END SECTION ===== -->
-
-<!-- ===== SECTION: GITHUB STATS ===== -->
-## `git log --stats`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DRAGON-SHOT&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" width="49%" />
-
-</p>
-
-<!-- ===== END SECTION ===== -->
-
-
-
----
-
-<!-- ===== SECTION: ONGOING PROJECTS ===== -->
-<!-- ===== END SECTION ===== -->
-
-<!-- ===== SECTION: CONNECT (swap the "#" hrefs for real URLs) ===== -->
-
-<!-- ===== END SECTION ===== -->
 
 <!-- ===== SECTION: FOOTER BANNER ===== -->
 <p align="center">
